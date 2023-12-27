@@ -1,2 +1,2 @@
 Teste agora:
-https://thiagoberenger.github.io/carro.github.io
+https://thiagoberenger.github.io/carro
